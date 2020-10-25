@@ -4,11 +4,13 @@ A Robot that moves on 5x5 table top.
 
 1. Clone the repo.
 
-2. Go to project folder `cd React-ToyRobot`
+2. Go to project folder `cd ToyRobot_React_Jest`
 
-3. Install all dependancies by `npm install`
+3. Install all dependancies by `yarn install`
 
-4. Run it by command `npm start`
+4. Run it by command `yarn start`
+
+5. For testing `yarn test`
 
 
 
@@ -93,12 +95,4 @@ Expected output
 
     3,3,NORTH
 
-Deliverables
-------------
 
-Please provide your source code, and any test code/data you using in
-developing your solution.
-
-Please engineer your solution to a standard you consider suitable for
-production. It is not required to provide any graphical output showing the
-movement of the toy robot.
